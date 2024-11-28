@@ -15,10 +15,17 @@ The coco_eval, coco_utils, engine, get_model_instance_segmentation(function), tr
 It works with save \ load model and model's state-dict so it can be apply on unknown picture.
 
 This project is still on-going, for 4 hands 
+
 data
+
 |_CARDS_COURTYARD_B_T
+
 |_CARDS_COURTYARD_H_S
+
 |_CARDS_COURTYARD_S_H
+
 |_...
+
 your-files.py
+
 ok Good-Bye!
