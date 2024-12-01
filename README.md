@@ -1,4 +1,4 @@
-Download the 1,3 GB Zip (Labelled Data) from http://vision.soic.indiana.edu/projects/egohands/ EgoHands Dataset.
+Download the 1,3 GB Zip (Labelled Data) from http://vision.soic.indiana.edu/projects/egohands/ EgoHands Dataset. Tipp: You can of course delete all but three or four directories for quciker tarinrainingg.
 
 Unzip it and rename the folder _LABELLED_SAMPLES into data
 
